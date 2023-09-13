@@ -1,4 +1,4 @@
-# Becoming familiar with Git/Github
+# Git / GitHub Lab
 
 ## Objective
 
