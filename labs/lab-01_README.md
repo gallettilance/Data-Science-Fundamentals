@@ -12,7 +12,9 @@ Gain practical experience in collaborative software development using Python and
 ![image](https://github.com/VedikaSrivastava/CS506-labs-Fall2023/assets/83489280/217b0f8f-1366-4e74-8d8a-f99dcc01e9ec)
 
 
-### Git/GitHub Workflow
+### Lab Instructions
+
+Please complete the items below in order.
 
 1. [**Fork the Repository**](https://help.github.com/en/articles/fork-a-repo)
    - Go to the original repository on GitHub: [Data-Science-Fundamentals](https://github.com/gallettilance/Data-Science-Fundamentals)
