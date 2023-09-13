@@ -74,7 +74,7 @@ Please complete the items below in order.
    - Click the "Create pull request" button.
 
 Congratulations! You've successfully forked a repository, made code contributions, and created a pull request using Git.
-\n\n
+<br><br>
 ### [Multi Author Commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
 In collaborative software development, it's essential to properly attribute contributions to multiple authors in a commit. Here's how you can add multiple authors to a commit:
 
