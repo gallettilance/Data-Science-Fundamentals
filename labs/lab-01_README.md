@@ -47,9 +47,9 @@ Please complete the items below in order.
      git checkout -b <branch-name>
      ```
 
-5. **Implement Your Component**
+5. **Make some changes**
    - For this lab edit the `README.md` to include your name
-   - Alternatively if you feel confident, create a `.py` or `.ipynb` file to incoporate any changes.
+   - Alternatively, if you feel confident, create a `.py` or `.ipynb` file to incorporate any changes.
 
 6. **Add and Commit Your Changes**
    - [Add](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) your changes to the staging area:
@@ -74,7 +74,7 @@ Please complete the items below in order.
    - Click the "Create pull request" button.
 
 Congratulations! You've successfully forked a repository, made code contributions, and created a pull request using Git.
-
+\n\n
 ### [Multi Author Commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
 In collaborative software development, it's essential to properly attribute contributions to multiple authors in a commit. Here's how you can add multiple authors to a commit:
 
