@@ -1,4 +1,4 @@
-# Git / GitHub Lab
+# Git / GitHub Lab - Ekaterina Azarova
 
 ## Objective
 
