@@ -37,3 +37,5 @@ This repo contains the slides and worksheets for [Boston University's CS 506](ht
 26. Generative Adversarial Networks
 
 This repo is updated every semester.
+
+ADD my name here: YIBO YE
