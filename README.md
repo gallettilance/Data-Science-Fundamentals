@@ -1,4 +1,5 @@
 # Data Science Fundamentals
+This is Jon's Suarez Forked Repository
 
 This repo contains the slides and worksheets for [Boston University's CS 506](https://www.bu.edu/academics/cas/courses/cas-cs-506/) course and aims to:
 
