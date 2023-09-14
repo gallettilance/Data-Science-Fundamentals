@@ -1,6 +1,6 @@
 # Git / GitHub Lab
 Name: Patrick Browne
-Name: second name
+Name: Anulika Nnadi
 
 ## Objective
 
