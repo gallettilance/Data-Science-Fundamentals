@@ -1,5 +1,7 @@
 # Git / GitHub Lab
-
+Name: Truc Duong
+BUID: U40568683
+Co-authored-by: Jiawei Sun, email: alinajw@bu.edu
 ## Objective
 
 Gain practical experience in collaborative software development using Python and Git by forking, cloning, making code contributions, and creating pull requests in a shared repository, while learning essential version control and programming skills.
