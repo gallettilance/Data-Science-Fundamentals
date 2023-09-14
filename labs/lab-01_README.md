@@ -1,5 +1,8 @@
 # Git / GitHub Lab
 
+Ahmad Sadiq
+U37260345
+
 ## Objective
 
 Gain practical experience in collaborative software development using Python and Git by forking, cloning, making code contributions, and creating pull requests in a shared repository, while learning essential version control and programming skills.
@@ -111,3 +114,6 @@ Keep in Mind
 
 
 **Lab will be considered complete once you have pushed your changes to your local PR and created a pull request with your collaborator**
+
+Ahmad Sadiq
+U37260345
