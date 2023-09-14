@@ -1,6 +1,9 @@
 # Git / GitHub Lab
 Name: Patrick Browne
+<<<<<<< HEAD
 Name: second name
+=======
+>>>>>>> f29e4524d1bb91a7481739c4fff1f77f57a0ac92
 
 ## Objective
 
