@@ -1,4 +1,5 @@
 # Git / GitHub Lab
+Name: Lucy Kisova			ID: U59695691
 
 ## Objective
 
