@@ -1,4 +1,4 @@
-# Data Science Fundamentals
+# Data Science Fundamentals Aoife Kenny
 
 This repo contains the slides and worksheets for [Boston University's CS 506](https://www.bu.edu/academics/cas/courses/cas-cs-506/) course and aims to:
 
