@@ -20,6 +20,8 @@ Please complete the items below in order.
    - Go to the original repository on GitHub: [Data-Science-Fundamentals](https://github.com/gallettilance/Data-Science-Fundamentals)
    - Click on the "Fork" button in the top-right corner of the page.
 
+   ,
+
 2. [**Clone Your Fork Locally**](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
    - Open your terminal or command prompt.
    - Clone your forked repository to your local machine using the following command, replacing `<your-username>` with your GitHub username:
