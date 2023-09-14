@@ -1,5 +1,5 @@
 # Git / GitHub Lab
-Lucy Kisova (lkisova@bu.edu)
+Lucy Kisova (lkisova@bu.edu)    
 Collaborated with Toby Ueno (tobyueno@bu.edu)
 
 ## Objective
