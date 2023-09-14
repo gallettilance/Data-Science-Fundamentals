@@ -1,5 +1,6 @@
 # Git / GitHub Lab
-Name: Lucy Kisova			ID: U59695691
+Lucy Kisova (lkisova@bu.edu)
+Collaborated with Toby Ueno (tobyueno@bu.edu)
 
 ## Objective
 
