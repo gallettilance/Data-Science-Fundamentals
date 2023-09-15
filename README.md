@@ -1,6 +1,7 @@
 # Data Science Fundamentals
 
 Name: Mahdi Khemakhem
+Name: Collaborator 1
 
 This repo contains the slides and worksheets for [Boston University's CS 506](https://www.bu.edu/academics/cas/courses/cas-cs-506/) course and aims to:
 
