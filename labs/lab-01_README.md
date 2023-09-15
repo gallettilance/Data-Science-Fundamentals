@@ -49,6 +49,7 @@ Please complete the items below in order.
 
 5. **Make some changes**
    - For this lab edit the `README.md` to include your name
+Jasper Hoong
    - Alternatively, if you feel confident, create a `.py` or `.ipynb` file to incorporate any changes.
 
 6. **Add and Commit Your Changes**
@@ -81,7 +82,7 @@ In collaborative software development, it's essential to properly attribute cont
 1. **Make changes to your file, stage your changes and commit**
    - For this lab edit the `README.md` to include your name and your collaborator's name
    - Alternatively if you feel confident, create or edit your `.py` or `.ipynb` file to incoporate any changes.
-
+Adding in Collaborator's name
 
 2. **Edit the Commit Message**
    - Open the commit message for editing with your preferred text editor:
