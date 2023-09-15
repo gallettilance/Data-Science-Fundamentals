@@ -1,3 +1,5 @@
+# Lab Participant: David Kim
+
 # Git / GitHub Lab
 
 ## Objective
