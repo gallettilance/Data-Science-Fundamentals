@@ -1,4 +1,4 @@
-# Git / GitHub Lab
+# Git / GitHub Lab(jli0318@bu.edu)
 
 ## Objective
 
