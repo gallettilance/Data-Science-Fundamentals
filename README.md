@@ -1,4 +1,4 @@
-# Matias Ou
+# Matias Ouls
 
 # Data Science Fundamentals
 
