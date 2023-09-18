@@ -1,4 +1,4 @@
-Gersian Collaku
+Gersian Collaku my Lab Partner
 # Git / GitHub Lab
 
 ## Objective
