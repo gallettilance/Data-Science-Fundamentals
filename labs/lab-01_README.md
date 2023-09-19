@@ -1,4 +1,5 @@
-Name: Jeff
+Name: Jeff Tedi
+Collaborator: Toby Ueno
 
 # Git / GitHub Lab
 
