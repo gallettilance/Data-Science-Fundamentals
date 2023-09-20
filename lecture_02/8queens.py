@@ -87,4 +87,3 @@ class Board:
 
 my_board = Board()
 my_board.search()
-
