@@ -15,26 +15,25 @@ class Board:
         for j in range(len(self.board)):
             if self.board[row][j] == "Q":
                 return False
-            return True
+        return True
     def is_legal_col(self, row, col):
         for i in range(len(self.board)):
             if self.board[i][col] == "Q":
                 return False
-            else:
-                return True
+        return True
             
     def is_on_board(self,row,col):
         return row >= 0 and row < 8 and col >=0 and col <8
             
     def is_legal_diag(self, row, col):
         for i in range(len(self.board)):
-            if self.is_on_board(row-i,col-i) and self.board([row-i][col-i]) == "Q": #checks diagonal to top left
+            if self.is_on_board(row-i,col-i) and self.board[row-i][col-i] == "Q": #checks diagonal to top left
                 return False
-            if self.is_on_board(row-i,col+i) and self.board([row-i][col+i]) == "Q": #checks diagonal to top right
+            if self.is_on_board(row-i,col+i) and self.board[row-i][col+i] == "Q": #checks diagonal to top right
                 return False
-            if self.is_on_board(row+i,col-i) and self.board([row+i][col-i]) == "Q": #checks diagonal to bottom left
+            if self.is_on_board(row+i,col-i) and self.board[row+i][col-i] == "Q": #checks diagonal to bottom left
                 return False
-            if self.is_on_board(row+i,col+i) and self.board([row+i][col+i]) == "Q": #checks diagonal to bottom right
+            if self.is_on_board(row+i,col+i) and self.board[row+i][col+i] == "Q": #checks diagonal to bottom right
                 return False
         return True
     
