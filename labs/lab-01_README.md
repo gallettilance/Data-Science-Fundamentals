@@ -5,7 +5,7 @@
 Gain practical experience in collaborative software development using Python and Git by forking, cloning, making code contributions, and creating pull requests in a shared repository, while learning essential version control and programming skills.
 
 ## Helpful Resources
-
+Name : Yu Han
 - [Getting Started with Python](https://www.python.org/about/gettingstarted/)
 - [Getting Started with Git](https://docs.github.com/en/get-started/getting-started-with-git)
 
