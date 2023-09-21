@@ -49,6 +49,7 @@ Please complete the items below in order.
 
 5. **Make some changes**
    - For this lab edit the `README.md` to include your name
+      - Efim Sokolov
    - Alternatively, if you feel confident, create a `.py` or `.ipynb` file to incorporate any changes.
 
 6. **Add and Commit Your Changes**
