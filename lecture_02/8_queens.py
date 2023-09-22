@@ -16,31 +16,31 @@ class Board:
     def search(self):
         row = 0
         col = 0
-
+        nsol = 0
 
         while row >=0:
             if row < 8:
-                if self.isLeagal(row,col):
-                    self.setQueenAt(row,col)
-                    row += 1
-                    col = 0
+                if col >= 8:
+                    row -= 1
+                    if row <= 0:
+                        col = self.getQueenOn(row) + 1 
+                        self.unsetQueenOn(row)
                 else:
-                    col += 1
-                    while col >= 8:
-                        col = self.getQueenOn(row - 1)
-                        self.unsetQueenOn(row - 1)
+                    if self.isLeagal(row,col):
+                        self.setQueenAt(row,col)
+                        row += 1
+                        col = 0
+                    else:
                         col += 1
-                        row -= 1
-            else:
-                print("found solution")
-                print(self)
-                while col >= 8:
-                        col = self.getQueenOn(row - 1)
-                        self.unsetQueenOn(row - 1)
-                        col += 1
-                        row -= 1
 
-            print("No more solution")     
+            else:
+                nsol += 1
+                print("found solution num: ", nsol)
+                print(self)
+                row -= 1
+                col = self.getQueenOn(row) +1                      
+
+        print("No more solution")     
 
 
 
