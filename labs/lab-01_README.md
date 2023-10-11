@@ -80,6 +80,7 @@ In collaborative software development, it's essential to properly attribute cont
 
 1. **Make changes to your file, stage your changes and commit**
    - For this lab edit the `README.md` to include your name and your collaborator's name
+      - Laerk Ndreko + Drake
    - Alternatively if you feel confident, create or edit your `.py` or `.ipynb` file to incoporate any changes.
 
 
