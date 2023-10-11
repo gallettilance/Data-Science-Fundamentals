@@ -1,5 +1,8 @@
 # Git / GitHub Lab
 
+Sungjun Park
+
+
 ## Objective
 
 Gain practical experience in collaborative software development using Python and Git by forking, cloning, making code contributions, and creating pull requests in a shared repository, while learning essential version control and programming skills.

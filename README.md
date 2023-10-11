@@ -36,4 +36,4 @@ This repo contains the slides and worksheets for [Boston University's CS 506](ht
 25. Types of Neural Networks
 26. Generative Adversarial Networks
 
-This repo is updated every semester.
+This repo is updated every semester.Sungjun Park
