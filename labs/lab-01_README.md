@@ -46,7 +46,7 @@ Please complete the items below in order.
      ```shell
      git checkout -b <branch-name>
      ```
-
+Michelle Sun
 5. **Make some changes**
    - For this lab edit the `README.md` to include your name
    - Alternatively, if you feel confident, create a `.py` or `.ipynb` file to incorporate any changes.
