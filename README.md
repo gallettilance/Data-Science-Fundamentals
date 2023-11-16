@@ -27,10 +27,10 @@ This repo contains the slides and worksheets for [Boston University's CS 506](ht
 16. Support Vector Machines (Non-Linear)
 17. Recommender Systems
 18. Linear Regression
-19. Logistic Regression
-20. Gradient Descent
-21. Linear Model Evaluation (Hypothesis Testing)
-22. Linear Model Evaluation (Confidence Intervals & Checking Assumptions)
+19. Linear Model Evaluation (Hypothesis Testing)
+20. Linear Model Evaluation (Confidence Intervals & Checking Assumptions)
+21. Logistic Regression
+22. Gradient Descent
 23. Neural Networks
 24. How to Tune Neural Networks
 25. Types of Neural Networks
