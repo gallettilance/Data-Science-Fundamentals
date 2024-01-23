@@ -1,0 +1,3 @@
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+I have strict criterion, I would start doubting the fairness of the coin after observing 14 consecutive heads. At this point, the probability of such an event occurring by chance with a fair coin falls below 1 in 10,000.
