@@ -1,0 +1,5 @@
+git add
+git commit 
+git push 
+
+are some of the commands that I need to know
