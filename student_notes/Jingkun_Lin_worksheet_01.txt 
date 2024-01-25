@@ -1,0 +1,2 @@
+Consider a hypothesis test where the null hypothesis is that the coin is fair. THen we can get the probability of getting 5 Heads every time which is 1/32 and it's smaller than 0.05. 
+If we set the p_value to be 0.05 then we can say that 5 times landing with head is sufficient for us to suspect its fairness.

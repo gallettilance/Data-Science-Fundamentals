@@ -1,0 +1,2 @@
+We consider a hypothesis test with p_value equal to 0.05. 
+The null hypothesis would be that the coin is fair and then the probability of getting 5 Heads for every time is 1/32 which is smaller than 0.05. Thus it's sufficient for us to suspect its fairness.
