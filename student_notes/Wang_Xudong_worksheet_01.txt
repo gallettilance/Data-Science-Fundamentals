@@ -1,0 +1,2 @@
+For a fair coin, the probability of getting heads in one flip is 0.5, here the probability of 10 flips is 0.5^10, which is about 0.1%, this is almost impossible, I will doubt after fliping 5 times
+and got all head.
