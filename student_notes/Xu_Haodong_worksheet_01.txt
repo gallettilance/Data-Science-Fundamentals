@@ -1,0 +1,1 @@
+I think I will start doubting the coin's fairness right after the second 5 tosses. If the coin is fair, the probability to get 10 consecutive heads is less than 0.001%, which is very not likely to happen in real life.
