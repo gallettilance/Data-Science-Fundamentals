@@ -1,0 +1,1 @@
+I think that 10 coin tosses is enough for me doubt the fairness of the coin. The probability of getting heads 10 times in a row is 0.5^10, or .097%. This is a very small number and would be enough for me to think the coin is unfair.
