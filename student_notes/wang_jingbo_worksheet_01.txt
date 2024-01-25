@@ -1,0 +1,4 @@
+
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+Answer：
+10 times. The reason is that it significantly deviates from the expected 50-50 distribution of Heads and Tails.
