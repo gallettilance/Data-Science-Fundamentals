@@ -1,0 +1,5 @@
+10
+
+The probability of flipping heads 10 times in a row with a fair coin is approximately 0.00098, or about 0.1%. This is a very low probability, indicating that such an outcome is quite rare if the coin is indeed fair.
+
+In statistical terms, if you set a significance level (commonly 5% or 1%) to decide when to start doubting the fairness of the coin, you would have already crossed that threshold. A result with less than 1% probability under the assumption of fairness (null hypothesis) is typically considered statistically significant enough to reject that assumption.
