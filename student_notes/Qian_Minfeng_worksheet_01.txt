@@ -1,0 +1,3 @@
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+The probability of a coin throwing the same face 5 times in a row is 1 in 32. Although it is difficult to happen, it is still possible. As this is my best friend, I still do not doubt the fairness of the coin. However, if we throw the same face 100 times in a row, even if our relationship is good, I have to doubt it because the probability is 1 in 1.2676506e+30. I'm sorry, my friend.
