@@ -1,0 +1,2 @@
+A fair coin has an equal chance of landing head or tail. (50%) Therefore, Probability of 10 heads in a row = (0.5)^10, which is about 0.1%.
+0.1% is not likely going to happen in real life. So I'll be doubting right after the last 5 coin throws. 
