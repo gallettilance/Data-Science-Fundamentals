@@ -1,0 +1,5 @@
+I would flip the coin 10 more times to start doubting the fairness of the coin, because it is not a big enough sample size. 
+Getting heads 5 times in a row would a fair coin has the probability 0.5^5, which is about 3.125%, a low percentage but not
+completely unlikely. Instead of doing two separate steaks of 5, I would do a streak of 10 and if no outcome was tails, then 
+I will start to doubt the fairness of the coin. If all 10 flips was head that would have the probability of 0.5^10, which is 
+about a 0.0977%, essentially 0%. 
