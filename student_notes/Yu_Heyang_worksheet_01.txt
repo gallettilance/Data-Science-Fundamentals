@@ -1,3 +1,3 @@
 P(5 heads in a row) = 0.5 ** 5 = 1 / 32
 p(10 heads in a row) = 1 / 1024 < 0.1%
-So I think after 10 flips, the probability of the result is small enough for me to doubt the result of the game.
+So I think after 10 flips, the probability of the result is small enough for me to doubt the fairness of the game.
