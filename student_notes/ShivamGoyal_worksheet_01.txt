@@ -1,0 +1,3 @@
+Q: A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+A: There is no set quantity of instances that always causes one to question justice. It is contingent upon the threshold that each person sets for deeming a series of events to be statistically unlikely in a fair coin, as well as the significance level that is selected. It's important to remember, though, that really random processes can produce streaks of the same result, and that infrequent streaks do not always signify a biased coin.
