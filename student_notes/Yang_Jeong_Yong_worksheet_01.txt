@@ -1,0 +1,7 @@
+In statistics, an event is usually unlikely to happen if the probability is less than 5% or the p-value is less than 0.05.
+The coin landing on Heads five consecutive times is (.5)^5 = 1/32 = 0.03125.
+The z-score of 95% percentile is 1.96. The margin of error is 0.05 as stated above.
+Applying a statistics equation n = (z-score)^2 * p * (1-p) / (margin of error)^2, we get
+n = (1.96^2 * 0.03125 * (1-0.03125))/(0.05)^2 = 46.52 and if we round it up to a whole number, we get 47.
+Since the event already occurred two times, we need to do 47-2 = 45 more times.
+Therefore, we can start doubting the fairness of the coin if the appearance of Heads five times happens 45 more times.
