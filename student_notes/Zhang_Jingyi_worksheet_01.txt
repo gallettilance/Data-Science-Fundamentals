@@ -1,0 +1,9 @@
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+Answer:
+In fact in this case I have already doubt the fairness of coin.
+Normally, the possibility for a coin to land on hand for each time is 50% (1/2).
+So in my case, the coin has already landed on for 10 times, the possibility of 10 time same result is 
+1/(2^10) = 1/1024. This possibility is so small that I have already doubt the fairness.
+
+In fact I start to doubt fairness even after 5 times same landing on result, since there is only 1/32 possibility to happen this.
