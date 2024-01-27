@@ -1,0 +1,3 @@
+The probability of 5 flips of coins landing on heads in a row is 0.5 ^ 5 = 0.03125.
+The probability of 10 flips of coins landing on heads in a row is 0.5 ^ 10 = 0.0009765625. 
+The common threshold for significance is 0.05, so it is reasonable to doubt the fairness of the coin after 4 times of landing on the heads(0.5 ^ 4 = 0.0625).
