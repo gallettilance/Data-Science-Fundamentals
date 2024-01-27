@@ -1,0 +1,12 @@
+# Question:
+
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+
+# My Answer:
+
+Actually, I would doubt this from the moment my friend showed me the coin, because he's obviously trying to play a prank on me. :) Because if it's really a plain coin, it doesn't even need to claim to be fair.
+Anyway, to approach it mathematically, I would say that 1% is a probability that I wouldn't normally expect to happen. 
+If I had a lottery ticket that had a 90% chance of winning, I wouldn't be very suspicious if it didn't win, but if I had a lottery ticket that had a 99% chance of winning, I would generally doubt the authenticity of the ticket if it didn't win.
+So I'm going to set the threshold of suspicion at 1%, and the moment the probability of a coin coming up heads in a row goes below 1%, I'm going to suspect it.
+Therefore, I would suspect the coin from the moment it lands on its seventh head, which is a 1/128 probability.
