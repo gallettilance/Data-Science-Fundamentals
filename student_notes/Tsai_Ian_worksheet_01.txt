@@ -1,0 +1,1 @@
+The probability of landing 5 heads in a row for a fair coin is (1/2)^5 = 0.03125, while the probability of landing 10 heads in a row is (1/2)^10 = 0.00097. Using the common threshold for significance, which is 0.05, we can start doubting the fairness of the coin after 5 head throws in a row, as 0.03 < 0.05.
