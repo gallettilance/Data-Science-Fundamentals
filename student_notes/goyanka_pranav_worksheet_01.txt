@@ -1,0 +1,3 @@
+Question: A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+Answer: Since, for a fair coin, the probability of getting either heads or tails is 50%, ideally it is possible for the coin to always land on a heads forever. The probability of this would be (1/2)^10, which is approximately 0.0009. If this continues for a few more flips, lets say 10 more, the probability of all heads would be 0.0000009537. At this point one might want to check if the coin really is fair or not.  
