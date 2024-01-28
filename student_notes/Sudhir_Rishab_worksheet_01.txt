@@ -1,0 +1,5 @@
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+The probability of you getting Heads 5 times in a row is 1/2^5 = 0.03125, which is already really rare, getting it twice in a row is the same as 1/2^10 = 0.0009765625 at this point you I would doubt the coin as this is already an extremely unlikey result.
+
+However the threshold at which you start doubting the fairness of the coin can be subjective and depends on the experimental tolerance for risk or error. Statistically we would need to measure the significance of the event (whether the p value is lower than the alpha) before we reject the idea that its fair.
