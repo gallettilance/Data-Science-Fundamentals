@@ -1,0 +1,11 @@
+Question: A friend presents you with a coin they claim to be fair.
+You flip the coin 5 times and it lands on Heads every single time.
+You flip the coin another 5 times, same result. 
+How many times must this happen for you to start doubting 
+the fairness of the coin? Explain your reasoning a bit.
+
+Answer: They only need to flip the coin one more time. Since a fair coin has 
+an equal probability of 1/2 to be heads or tails I would assume there would 
+be at least one flip where a tails appears. I would not waste my time waiting
+for a tails to appear if the 11th flip of the coin had another outcome of heads.  
+
