@@ -1,0 +1,2 @@
+If a coin is fair, the probability of it landing on Heads every time in 10 consecutive flips is (0.5)^10, which is about 0.1%. This is already a very low probability, suggesting the coin might not be fair. 
+Just from this fact alone, I would start doubting the fairness of the coin immediately while witnessing this.
