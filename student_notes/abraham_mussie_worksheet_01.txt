@@ -1,0 +1,6 @@
+To determine when to start doubting the fairness of the coin you can just analyze the probablity of observing a particular sequence of flips under the assumption that the coin is fair. 
+A fair coin has a 50% chance of landing on heads P(H) = 0.5 and a 50% of landing on tails P(T) = 0.5.
+If you consider the probablity of flipping heads 10 times in a row with a fair coin its P(H, H, H, H, H, H, H, H, H, H) = (.5)^10
+As you can see, as the number of consecutive heads increases, the probability of this happening by chance, assuming the coin is fair, decreases.
+The probablity of flipping heads consecutively falls below 5% after 5 flips, as the probability of flipping heads 5 times in a row with a fair coin is about 3.13%, so after the first 5 flips I would begin to be doubtful about the fairness of the coin.
+Specifically in the context of the problem, we're already observing 10 consecutive heads, which is already suspicious and would lead me to completely doubt the fairness of the coin right away after observing these 10 flips due to the reasoning above.
