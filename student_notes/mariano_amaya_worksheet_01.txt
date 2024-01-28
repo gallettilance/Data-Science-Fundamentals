@@ -1,0 +1,10 @@
+```
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin 
+another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+```
+
+The chances of gettings heads 10 times in a row is 1/1024 which is less than 0.1%. Which is extremely low. And honestly I at this poit I would start 
+doubting the fairness of the coin. But lets say I give the benefit of the doubt to my friend. And we flip the coin ten more times, then we will hit 
+heads 20 times in a row,thats a 1/(2^20) wgich is 0.000095% which is technically impossible. In short, after the ten times, I would've known that the coin
+is rigged.
