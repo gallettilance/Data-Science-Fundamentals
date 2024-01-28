@@ -1,0 +1,2 @@
+This must happen a significant amount of times for me to start doubting the fairness of the coin. For the total amount of 10 times, it is still possible for a fair coin to produce all heads, because each coin flip is independent from each other, in the case of a fair coin, heads would have the probability of 50%. If the experiment extrapolates out to ex. 100000000 times and the results are still heads then, I would start doubting because the larger the sample size, the smaller the standard deviation from the mean, meaning it should converge closer to 50% than 100%.
+
