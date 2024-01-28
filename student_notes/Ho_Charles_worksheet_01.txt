@@ -1,0 +1,10 @@
+A friend presents you with a coin they claim to be fair. 
+You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. 
+How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+
+If the coin lands on heads 11 times in a row then I would start doubting the fairness of the coin. The probability of a coin 
+landing on heads 11 times in a row is 0.5^11 which is about 0.000488, or once every 2050 times. 
+Assuming that the coin flips are independent and there's no external factor influencing the results.
+The more consecutive heads observed, the stronger the evidence against the coin being fair, however, such situation do have a slim probability of happening.
+
