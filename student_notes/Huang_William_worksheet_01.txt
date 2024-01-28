@@ -1,0 +1,3 @@
+If I have flipped this coin 10 times and landed on ten heads, I would already be a bit doubtful to the fairness of the coin, as this event has 0.5^10 = 0.098% chance of happening. Two more heads and we're headed to 0.024%, which I feel is the cutoff for the coin being fair -- we've already landed far, far away from the normal distribution, and to dip significantly below 0.05% is too low for me to consider the flips just a coincidence by chance.
+
+- William Huang, U53888747
