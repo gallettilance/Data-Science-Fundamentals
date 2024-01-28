@@ -1,0 +1,1 @@
+It's not fair because the probability of getting heads 10 times in a row is extremely small, 0.5**10 = 0.0009765625, hence, the coin might be unfair.
