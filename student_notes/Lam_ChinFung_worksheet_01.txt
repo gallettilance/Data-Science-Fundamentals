@@ -1,0 +1,16 @@
+A friend presents you with a coin they claim to be fair. 
+You flip the coin 5 times and it lands on Heads every single time. 
+You flip the coin another 5 times, same result. 
+How many times must this happen for you to start doubting the fairness of the coin? 
+Explain your reasoning a bit.
+
+
+Answer:
+There is no exact number of flips that will prove if the coin is fair or not, but the more times I flip (and still keep getting heads), the more I will doubt the fairness 
+of the coin. To be honest, if I flipped the coin 10 times and I got Heads every single time, I would already start doubting the fairness of the coin. 
+
+From a statistics/probability standpoint, a fair coin means a flip has a 50% chance of being Heads, and a 50% chance of being tails. The probabily of 10 consecutive heads is
+(0.5)^10, which is approximately 0.09765625%. This percentage is incredibly low (but not impossible, although I don't think we will ever reach an "impossible", but the chance
+would exponentially decrease per flip). I would say if it happens 5 more times then I would seriously consider the fairness of the coin. The probability of that is (0.5)^15, 
+which is 0.00305175781%. That is incredibly close to 0 to me, and it would just be too unbelievable to me to the point where I doubt it can happen naturally.
+
