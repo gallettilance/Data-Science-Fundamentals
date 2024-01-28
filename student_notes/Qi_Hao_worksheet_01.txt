@@ -1,0 +1,8 @@
+Q. 
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times, and it lands on Heads every single time. You flip the coin another 5 times with the same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit. 
+
+A. 
+The chance of flipping Heads 10 times in a row with a fair coin is approximately 0.098%, a very low probability that has raised significant doubts about the fairness of this coin. In statistical terms, this outcome is much rarer than the commonly used threshold for significance (5% p-value), suggesting the likelihood of the coin being biased. Below are the number of trials required for the respective probabilities of continuously flipping Heads: 
+$(0.5)^x \leq 0.05$ $x \geq 5$  
+$(0.5)^x \leq 0.01$ $x \geq 7$  
+$(0.5)^x \leq 0.0001$ $x \geq 14$
