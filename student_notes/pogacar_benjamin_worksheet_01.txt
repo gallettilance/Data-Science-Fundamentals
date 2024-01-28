@@ -1,0 +1,8 @@
+I would expect the coin to be fair at first, meaning there should be 50% heads
+and 50% tails. However, there is some degree of variance so it won't just be
+H, T, H, T, ... , etc. As they flip the coin more and more, my confidence that 
+it is weighted increases. The odds of getting 5 heads in a row, assuming the coin
+is fair, is (0.5)^5 or 3.125%. Doing it again would be 0.098%. Getting a string
+of 10 heads in a row would be expected if we flipped the coin MANY times, however 
+considering we only flipped it 10 times and it was heads every time I would now 
+suspect that the coin is indeed weighted.
