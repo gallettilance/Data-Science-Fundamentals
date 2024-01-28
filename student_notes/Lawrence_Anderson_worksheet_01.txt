@@ -1,0 +1,6 @@
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. 
+How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+Answer: I'd already be a bit skeptical: the chances of landing ten heads in a row is 1/2^10 or one in about a thousand. If this happens another ten times, I can be fairly confident the coin is 
+not fair since at this point the chances are about one in a million. Another ten times and I'm near certain the coin is not fair since the chances are one in about a billion. Any sequence of 
+continuous heads that follow produces a greater uncertainty in the fairness which at this point we can almost entirely rule out as a possibility.
