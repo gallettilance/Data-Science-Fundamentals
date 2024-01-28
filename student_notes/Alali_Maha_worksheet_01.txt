@@ -1,0 +1,13 @@
+Question: 
+A friend presents you with a coin they claim to be fair. 
+You flip the coin 5 times and it lands on Heads every single time. 
+You flip the coin another 5 times, same result. How many times must 
+this happen for you to start doubting the fairness of the coin? 
+Explain your reasoning a bit.
+
+Answer:
+The likelihood of a fair coin landing on heads 10 times in a row is 
+(1/2)^10 = 0.09765625 %. This is a very low possibllity as it is below 1%. We could have safely started doubting then.
+Otherwise we could have also started doubting the coin after the 7th toss since the likelihood of getting heads on 7
+consecutive tosses is also below 1%. 
+ 
