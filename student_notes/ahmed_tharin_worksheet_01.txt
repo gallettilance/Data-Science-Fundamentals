@@ -1,0 +1,6 @@
+If I remember this clearly from my probability class, you need to use the 
+Bernoulli random variable distribution, so you use the (x^2)(1-p)^3 and with 
+Google this a bit. I can say I was going in the right direction, so then you use 
+the equation because you assume that they are independent, and x would be 1/2 
+because it would be a possibility of 2 choices, so then it would be 1/32 and 
+that would be about .31. 
