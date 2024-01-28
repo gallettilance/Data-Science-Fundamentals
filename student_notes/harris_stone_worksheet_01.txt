@@ -1,0 +1,2 @@
+The probability of flipping a fair coin and getting heads 10 times in a row is 0.5^10 = 0.000976. This is an extremely low probability. So I would say that after 10 consecutive flips that yield heads, there would be no doubt in my mind that the coin is not fair.
+
