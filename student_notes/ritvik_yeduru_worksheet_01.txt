@@ -1,0 +1,1 @@
+In this case, since the coin was flipped 10 times and it landed on heads every time, the probability that the coin would land on heads with a fair coin is roughly 0.1% (0.5 x 10). As the outcome is highly unlikely, I definitely will doubt the fairness of the coin, as such a streak is highly unlikely to happen by chance.
