@@ -1,0 +1,3 @@
+Fliping a coin that is fair, the probability of getting heads once is 0.5. So the probability of getting heads 5 times is 0.5^5=0.03123.
+And the probability of getting heads 10 times is 0.5^10=0.00097656, which is smaller than 1%. This event would be quite rare 
+if the coin were truly fair. So I will start to doubt the fairness of the coin after getting heads 10 times.
