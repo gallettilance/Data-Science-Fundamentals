@@ -1,0 +1,8 @@
+A friend presents you with a coin they claim to be fair. 
+You flip the coin 5 times and it lands on Heads every single time. 
+You flip the coin another 5 times, same result. 
+How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+Answer: 
+For a fair coin to land heads 5 times in a row, that would equate to 0.5^5 = ~3% so I would be doubtful. If the next 5 is also all heads,
+that a probalbity is extremly small so I would seriosly doubt that the coin is fair. 
