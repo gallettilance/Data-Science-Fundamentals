@@ -1,0 +1,4 @@
+The number of times before I would become suspicious depends on the friend. I am comparing the likelihood of a fair coin yielding these results 
+against the likelihood of my friend playing a trick on me. Were it a particularly trustworthy friend, it might take up to 10 flips for me to
+voice my suspicions, as it is a meer 0.09% chance. Were it a friend I knew not to take at their word, I may doubt the coin is fair even
+before the first flip.
