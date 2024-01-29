@@ -1,0 +1,1 @@
+I would start doubting the coin after around 10 flips. This is because it's widely known that coin flips should have an equal probability, but with the same result 10 flips later, the probability that I am still getting heads would be 0.5^10 which would result in a .098% of getting all heads or all tails in 10 flips of a fair coin, which is pretty low.
