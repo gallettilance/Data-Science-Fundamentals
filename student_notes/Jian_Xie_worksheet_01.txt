@@ -1,0 +1,1 @@
+It already gets me doubt the fairness. According to Bayes' theorem, it would be much less possible if we keep getting Heads, as we already did 10 times of Heads which has extremely low possibility to happen.
