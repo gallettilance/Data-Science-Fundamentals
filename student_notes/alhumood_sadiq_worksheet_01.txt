@@ -1,0 +1,1 @@
+10 times of having heads is enough to ensure that the coin is most probably unfair, because the chance of that is less than 0.1% for 10 coin flips and that is very unlikely.
