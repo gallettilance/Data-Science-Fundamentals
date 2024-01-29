@@ -1,0 +1,1 @@
+After around 10 tries, I would start doubting the coin. This is because every coin has a 50% probability of either being heads or tails. So, after 10 tries, the probability of getting heads all 10 times would be 0.5^10=0.098%. This probability is quite low, so I would doubt the validity of the coin at this point.
