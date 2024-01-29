@@ -1,0 +1,12 @@
+It would depend on you personally sometimes but we can use our knowledge of probability to use here to determine if it makes sense to us. 
+
+For example: 
+If we consider this as a fair die, 
+    To get 5 consecutive rolls, the probability will be (1/2)^5 = 0.03125
+
+Now, let's assume it is not memoryless, 
+    To get 10 consecutive rolls together, 
+    the probability will now be (1/2)^10 = 0.00097
+
+This is even less than 0.01%. So, I personally would not believe my friend anymore after the second 5 consecutive rolls. 
+The probability is significantly low. 
