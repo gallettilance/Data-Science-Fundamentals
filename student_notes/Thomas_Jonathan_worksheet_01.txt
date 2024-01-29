@@ -1,0 +1,5 @@
+The probability that your friend lands heads 5 times (for a fair coin) is (0.5)^5 = 0.03125 or a 3.125% chance.
+The probability that it happens again as a total event is (0.5)^10 = 0.0009765625 or a ~0.1% chance. This is ~31 times less likely than the first event.
+At the 7th flip it would have been less than a 1% chance, I would doubt at that point.
+However, when generating this experiment using python, I ran this experiment 25 times (limited space) and got as low as 2 heads and 1 trial with 9 heads. Of course
+if you ran this trial about 32 times you would expect to get this result 1 time!
