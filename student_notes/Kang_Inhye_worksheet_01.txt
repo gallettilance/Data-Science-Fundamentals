@@ -1,0 +1,1 @@
+With a fair coin, the probability of landing heads and the probability of landing tails are each both 50%. The probability of landing on heads is (0.5)^10, which is around 0.1%. This is below the 5% significance threshold, which could signify that you can start doubting the fairness of the coin after 10 heads.
