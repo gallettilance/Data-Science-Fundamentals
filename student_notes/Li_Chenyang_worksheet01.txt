@@ -1,0 +1,1 @@
+For me it's 20 times. If a coin is claimed to be fair but it keeps giving results of the same side, this might just be a rare coincidence. Flip a coin 20 times and it gives the same result's probability is (0.5)^20 which can happen 9 times among 10 billion trials. For me that's hard enough to believe it's a fair coin.
