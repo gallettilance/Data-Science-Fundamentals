@@ -1,0 +1,18 @@
+A friend presents you with a coin they claim to be fair. 
+You flip the coin 5 times and it lands on Heads every single time. 
+You flip the coin another 5 times, same result. 
+How many times must this happen for you to start doubting the fairness of the coin? 
+Explain your reasoning a bit.
+
+
+It is hard to pinpoint the exact number of flips the fairness of the coin is questioned. 
+Personally, I would have already began to doubt the fairness of the coin after 10 flips as the probability of that happening is quite low.
+The probability of 10 heads in a row is P(10 H in a row) = P(H)**10.
+Under the assumption of the coin being fair P(H) = 0.5 for each flip. 
+Assuming each flip event is independent, we get P(0.5)**10 = 0.0009765625 or 0.09765625%.
+Although flipping ten heads in a row is not necessarily impossible, the probability of that event occuring is extremely low.
+This probability will only continue to decrease the more times we flip and continue to only get heads.
+After one more time of flipping 5 times and landing on heads every single time, the probability would be P(0.5)**15 = 0.00003051757, or about 
+0.00305%.
+Thus, I would begin to doubt the fairness of the coin after 10 flips in a row and very much believe the coin is rigged/unfair after 15 flips.
+
