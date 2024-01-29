@@ -1,0 +1,1 @@
+To be honest, I would start doubting immediately after the 10th flip. This is because the probability of this happening is less than 1%, which can be calculated by (1/2)^10. A probability of less than 1% is not really common compared to the first five flips, about 3%, but I would still accept the 3% as a coincidence and fortune.
