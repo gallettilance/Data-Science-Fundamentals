@@ -1,0 +1,3 @@
+Before doubting the fairness of the coin, I would assess the way I am flipping the coin. I would then change the way I am flipping the coin appropriately before doubting it. 
+
+There is no way to quantify this number as the coin, despite its fairness, could just always land on Heads as the probability of this happening will never be 0, it would just be extremely low. However, I would probably doubt the fairness of the coin immediately (before even flipping it more), because the chance of it flipping Heads 10 times (considering its "fairness") is very very low. 
