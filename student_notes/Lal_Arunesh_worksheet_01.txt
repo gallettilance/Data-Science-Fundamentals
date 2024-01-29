@@ -1,0 +1,2 @@
+Question: A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+Answer: For me to determine whether the coin is fair or baised , I must have a good sample space. And for a coin toss 100 tosses would be a fair sample space to declare whether the coin is fair or biased.
