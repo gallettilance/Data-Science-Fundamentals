@@ -1,0 +1,37 @@
+It depends on how much you trust your friend initially.
+
+Basically, we want to compute the probability that the coin is fair given the number of tosses,
+and the number of tosses that makes this probability less than 50%.
+
+This involves computing a conditional probability, on which we can apply Baye's.
+
+Let F be the event that the coin is fair, and T be the event corresponding to our observed tosses.
+Then we want to compute
+    Pr[F|T] = (Pr[T|F] * Pr[F]) / Pr[T]
+            = (Pr[T|F] * Pr[F]) / (Pr[T|F] * Pr[F] + Pr[T|-F] * Pr[-F]),
+and see when it's less than 50%.
+
+Here I make a pessimistic assumption: that if my friend is wrong, then the coin is completely biased
+for heads, so Pr[T|-F] = 1.
+Also, Pr[T|F] = (0.5)^5n, where n is the number of times we repeat the 5 coin tosses. 
+Additionally, Pr[-F] = 1-Pr[F] by complement rule.
+
+Substituting these in and isolating n gives the following:
+    n > (log_0.5(1-Pr[F]) - log_0.5(Pr[F])) / 5.
+
+This means that n has to be greater than the above quantity for the probability of a fair coin
+to fall below 50%, thus you shuold not trust your friend.
+
+Here Pr[F] roughly corresponds to how much you trust your friend, since you only have your
+friend's word to go off of.
+
+We can compute some sample values:
+- For Pr[F] = 0.5, n must be > 0, meaning we should not trust our friend for any whole number of 5 tosses.
+- For Pr[F] = 0.9, n must be > 0.64, still meaning we shouldn't trust our friend after any 5 consecutive heads.
+- For Pr[F] = 0.95, n must be > 0.85, still meaning we shouldn't trust our friend...
+- The lowest "trust value" where n must be > 1 is about 0.9697.
+- The lowest "trust value" where n must be > 2 is about 0.999.
+- For Pr[F] = 0.999999 (you'd mistrust your friend only once per million times), n must be > 3.99.
+
+Granted, I don't think I trust anyone with more than 0.999 certainty, so I'm calling sus after 2
+sets of 5 consecutive heads. 
