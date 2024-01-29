@@ -1,4 +1,4 @@
-In statistics, we often use a 5% threshold (p-value < 0.05) to determine statistical significance. If an event has less than a 5% chance of occurring under a null hypothesis (in this case, the hypothesis that the coin is fair), it suggests that the null hypothesis may not be true.
+In statistics, we often use a 5% threshold (p-value < 0.05) to determine statistical significance. If an event has less than a 5% chance of occurring under a null hypothesis (in this case, the hypothesis that the coin is fair), it suggests that the null hypothesis may not be true .
 
 We can calculate for which number of flips, n, the probability (0.5)^n falls below 0.05.
 
