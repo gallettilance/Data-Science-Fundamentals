@@ -1,0 +1,5 @@
+We can calculate the probability of the result we got assuming the coin is fair as (0.5)^10 = .00098, 
+meaning that if the coin is fair there would be less than a .1% chance to observe the result of flipping 10 heads in a row.
+If the coin were to keep coming up heads, then we can keep multiplying the result by .5 for each trial until we reach a number that can be deemed as the cutoff to start doubting the fairness of the coin.
+Of course the exact cutoff would be subjective, and even then whether or not we doubt the coin's fairness would also depend on how much we trust our friend's initial claim that it is, in fact fair. 
+If our friend has a track record of being very reliable, perhaps we would be less swayed by the experiments than if our friend was known to tell tall tales.
