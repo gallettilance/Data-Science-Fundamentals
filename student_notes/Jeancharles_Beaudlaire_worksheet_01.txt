@@ -1,0 +1,18 @@
+Beaudlaire Jeancharles
+
+A friend presents you with a coin they claim to be fair. 
+You flip the coin 5 times and it lands on Heads every single time.
+You flip the coin another 5 times, same result. How many times must 
+this happen for you to start doubting the fairness of the coin? 
+Explain your reasoning a bit.
+
+Ans: Since we had a sequence of 10 consecutive coin flips and all outcomes were heads,
+by the concept of independence in probability, each flip was an independent event. 
+So, the outcome of one flip does not affect that of the next. The probability of 
+getting heads on each flip is 50% = .5. But, even the coin was fair, you can’t assume 
+that you would always get that 50% chance not to get another head. In this case,
+getting 10 consecutive heads, does not mean we need to start doubting the fairness
+of the coin because 10 flips wasn’t a large number enough. We should have tried a
+very large number to start thinking that the coin was unfair.
+
+
