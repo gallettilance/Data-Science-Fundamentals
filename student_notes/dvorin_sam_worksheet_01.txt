@@ -1,0 +1,1 @@
+If the coin is fair, the probability of 10 Heads is (0.5)^10.  This is very low.  Unbelievably low.... Given that the probability of this happening with a fair coin is already 0.0009765625, depending on how much I trust the friend, I would give them either 3 or 5 more.  Once we get into 0.0000XXX territory, I think there is no shadow of a doubt about it.
