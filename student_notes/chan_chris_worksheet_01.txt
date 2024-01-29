@@ -1,0 +1,8 @@
+If this occured twice, in other words, the coin they claim to be fair
+landed Heads 10 times in a row, I would start to doubt the fairness
+of the coin. The probability of a fair coin landing heads
+10 times in a row is (0.5) ^ 10 = 9.7656e-4.
+
+The probability is 0.03125 of it occurring once. At this point
+I would also start to doubt the coin, but the chances 
+of it happening twice are extremely low. 
