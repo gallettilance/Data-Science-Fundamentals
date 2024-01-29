@@ -1,0 +1,6 @@
+Question:
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+
+Answer:
+I would doubt the fairness after 10 times. If it's a fair coin, the probability of getting Heads is 0.5, and the probability of getting 10 consistent Heads is 0.5^10, which is 1 in 1024. While this is not impossible, it's highly unlikely, and it's reasonable to raise suspicious here. 
