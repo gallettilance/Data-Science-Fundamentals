@@ -1,0 +1,1 @@
+The probability of getting heads five times in a row is 3.125%, which already seems unlikely and casts doubt. The probability of getting heads ten times in a row is 0.1%. Each coin flip is independent of the previous ones, so while I might doubt the coin even from the first five flips, it does not necessarily indicate that the coin is biased.
