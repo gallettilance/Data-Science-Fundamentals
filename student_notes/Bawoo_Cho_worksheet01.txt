@@ -1,0 +1,7 @@
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. 
+You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? 
+Explain your reasoning a bit.
+
+I would have doubted the fairness of the coin after landing heads 10 times in a row. The odds of that specific outcome are 1/1024 or 
+0.098%. Although technically the odds of getting 10 heads in a row are the same odds as getting any other combination of 10 coin flips,
+the fact that it was the same exact outcome 10 times in a row is very doubtful. 
