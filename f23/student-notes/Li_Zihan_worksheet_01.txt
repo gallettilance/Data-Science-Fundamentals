@@ -1,0 +1,3 @@
+If this coin as a friend claims to be fair, then the probability of landing heads on any flip should be 0.5. So, for 10 flips, the probability of getting heads every time is 
+0.5^10 < 0.1%
+If an event with a probability lower than 5% (0.05) is typically considered statistically significant, which means it's unlikely to occur by random chance alone. In this case, the probability of getting 10 heads in a row is well below 5%, so from this happening, I can start to doubt the fairness of the coin.
