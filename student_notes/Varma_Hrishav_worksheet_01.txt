@@ -1,0 +1,1 @@
+The chances that the coin ends up with 5 heads on the first 5 tosses is (1/2)^5 ~ 3% which is already pretty low. I would already start doubting after the first 5 tosses. Later on in the second round of 5 tosses, the chances it lands on 5 heads again is extremely low if it was a fair coin. That would suggest to me that the coin is extremely biased.
