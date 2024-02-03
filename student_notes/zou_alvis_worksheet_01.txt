@@ -1,0 +1,1 @@
+I would start doubting the fairness of the coin after about 30 heads in a row. This is because the odds of getting heads 30 times in a row is (1/2)^30 which is around 0.00000009% chance of happening. This is basically impossible, so I can say with 99.9% certainty that the coin is rigged. 
