@@ -1,0 +1,1 @@
+ I will start doubting the fairness of the coin right after this 10 times. Since the probability that 10 times have the same result is (1/2)^10, which is extremely low.
