@@ -1,0 +1,1 @@
+I would doubt the fairness of the coin after the first 10 flips. This is because the probability of not getting tails even once for all 10 flips is less than 0.001 or 0.1%, which is very low. So, it is highly likely that the coin is unfair. 
