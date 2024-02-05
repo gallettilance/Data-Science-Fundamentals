@@ -1,0 +1,35 @@
+I would start doubting the fairness of the coin if this happens more than 3 times. And here below is my reasoning:
+
+Given that a fair coin has a 50% chance (probability p = 0.5) of landing on Heads in any given flip, the probability of it landing on Heads 5 times in a row in one trial run of 5 flips can be calculated using:
+
+P(5 Heads in a row) = (0.5)^5.
+
+Because the events (coin flips) are independent, the outcome of one flip does not influence the outcome of the next. Therefore, for 5 flips, the probability calculation is:
+
+P(5 Heads in 5 flips) = (0.5)^5 = 0.03125.
+
+This means there's about a 3.125% chance of flipping a coin and getting Heads 5 times in a row in one set of 5 flips. Seeing this once might seem lucky, but not impossible. However, repeating this success consecutively, say n times, reduces the likelihood dramatically:
+
+P(5 Heads in 5 flips repeated n times) = (0.03125)^n.
+
+After repeating this phenomenon twice (10 heads in a row), which in our case has already occurred, the probability becomes:
+
+P(5 Heads twice) = (0.03125)^2 ≈ 0.0009765625.
+
+This means getting 10 heads in a row has less than a 0.1% chance of occurring. While not impossible, it's improbable enough to start raising suspicions about the fairness of the coin. 
+
+To further illustrate, let’s frame "becoming suspicious" as an event that would occur less than 1 out of 1000 times under conditions of fairness (P<0.001).
+
+Solving for n in the equation P = (0.03125)^n < 0.001, we could use logarithms:
+
+log(P) < log((0.03125)^n)
+log(P) < n*log(0.03125)
+n > log(P)/log(0.03125)
+
+Plugging in P = 0.001:
+
+n > log(0.001)/log(0.03125) approximates 3.29
+
+Therefore, after seeing this scenario play out 4 times (20 heads in a row), the probability of such an event happening with a fair coin is less than 0.1%, which significantly increases the skepticism regarding the fairness of the coin.
+
+In conclusion, while seeing 5 heads in a row may not immediately warrant suspicion, observing such outcomes consecutively and notably more than three times would make the claim of the coin being fair highly dubious, particularly from a statistical probability perspective.
