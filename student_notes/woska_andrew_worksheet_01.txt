@@ -1,0 +1,4 @@
+It would take _five_ additional flips for me to doubt its fairness.
+Since two people have tried flipping the coin five times each,
+an additional five flips will create a probability of less than 7%.
+This is enough of an improbability for me to doubt the fairness of the coin.
