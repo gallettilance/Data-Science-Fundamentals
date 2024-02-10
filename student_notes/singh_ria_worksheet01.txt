@@ -1,0 +1,3 @@
+Q: A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+Ans: The lower the number of flips, the more unreliable the fairness of coin remains. This is due to increase in number of flips increases the sample set for us to calculate our observations from. 
