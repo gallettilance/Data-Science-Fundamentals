@@ -1,0 +1,25 @@
+A friend presents you with a coin they claim to be fair. You flip the coin 5 times and it lands on Heads every single time. You 
+flip the coin another 5 times, same result. How many times must this happen for you to start doubting the fairness of the coin?
+Explain your reasoning a bit.
+
+
+Given it's a fair coin, 
+probability of getting heads = 0.5
+probability of getting tails = 0.5
+
+(Side calculation:
+Expected number of unsuccessful trials (i.e. getting heads ) before we see tails can be modeled as a geometric distribution with 
+probability of failure p  - 0.5. 
+Number of unsuccessful trials excluding last successful trial (where we get tails) = p/1-p  = 0.5/0.5 = 1)
+
+Answer: 
+probability of getting heads 10 times = 0.5^10 = 0.0009765625. The probability of getting 10 heads in a row is extremely low, which
+makes this event unsusual but not necessarily indicate that the coin is unfair. However, if we were to observe a significant number of 
+consecutive heads repeatedly (e.g., 20, 30, or more times), it might raise suspicions about the fairness of the coin, since the 
+probability of getting 20 or 30 heads in a row is even more extremely low. 
+It's important to recognize that streaks of heads/tails can happen by chance; for instance, if multiple isolated streaks of heads occurred
+at different points in time I wouldn't necessarily get suspicious. However, as the length of an individual streak increases (i.e. 
+we keep getting the same outcome as number of flips increase), I would start getting suspicious. To give a concrete number, I would 
+start doubting the fairness of the coin if I observe a streak of heads (or tails) for more than 17 consecutive flips. The probability
+of such an event happening is incredibly low (7.629×10^−6) and warrants further inspection.
+
