@@ -1,0 +1,1 @@
+The probability of landing 5 heads in a row, let alone 10 heads in a row, is extremely unlikely given it is a 1/2 chance per flip. The chance of landing 5 heads in a row is 1/32 while landing 10 heads in a row is a whopping 1/1024. Therefore, anything between 5 and 10 consecutive head flips would make me skeptical about the fairness of the coin. 
