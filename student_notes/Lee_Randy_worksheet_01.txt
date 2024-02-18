@@ -1,0 +1,7 @@
+The probability of the coin always landing on heads is 0.5 every time, 
+independent of each other. Therefore while it is unlikely that it lands on 
+heads every single toss for n tosses, it is still a possibility. You could check
+and compare the number of trials of consecutive 5 head coin tosses to the theoretical
+probability of 0.5^(5). This is in line with the prompt's question, but I would
+personally err on the side of doing a large number of single toss trials and 
+seeing if the probability of tossing a head/tail was about .5.
