@@ -1,0 +1,5 @@
+In statistics, we often use a 5% threshold (p-value < 0.05) to determine statistical significance. If an event has less than a 5% chance of occurring under a null hypothesis (in this case, the hypothesis that the coin is fair), it suggests that the null hypothesis may not be true.
+
+We can calculate for which number of flips, n, the probability (0.5)^n falls below 0.05.
+
+Based on this calculation, after only 5 consecutive heads, the probability of this happening with a fair coin falls below the 5% threshold, which is typically considered statistically significant. Therefore, if I flip a coin 5 times and it lands on heads every time, it's reasonable to start doubting the fairness of the coin. 
