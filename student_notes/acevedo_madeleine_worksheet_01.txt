@@ -1,0 +1,2 @@
+Observing a streak of 10 or more consectuive head landings can be considered a noteworhy event in which I might start to doubt the fairness of the coin. The probability of getting five consecutive heads is 0.5^5, or 3.13%, which is subjectively reasonably possible. The probability of getting ten consecutive heads is 0.5^10, or 0.1%. While technically possilbe, this outcome is extremely less likely, thus leading me to begin doubting the fairness of the coin. 
+
