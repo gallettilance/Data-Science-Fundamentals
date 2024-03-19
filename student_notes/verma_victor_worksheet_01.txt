@@ -1,0 +1,4 @@
+Flipping a coin is both independent and identically distributed, with the probability of an outcome of heads or tails equal to 0.5. 
+In this scenario, the probability of 10 straight heads would then be (0.5)^10, which is 1/1048 or about 0.1%. 
+Based on this probability, I would already start to doubt the fairness of the coin by the time I've gotten 10 straight heads.
+I would personally start to doubt the fairness of the coin once I got 7 straight heads, which would have about a 0.8% chance of occurring.
