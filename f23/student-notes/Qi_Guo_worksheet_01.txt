@@ -1,0 +1,1 @@
+Maybe 5, for there is only a 1/32 chance that it will be a head for five consecutive times.
