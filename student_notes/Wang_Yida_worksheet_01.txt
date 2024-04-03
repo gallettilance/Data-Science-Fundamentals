@@ -1,0 +1,1 @@
+I will be starting doubting it after the second. Assuming each flip is independent, the probability of landing ont he heads 5 times in a row is roughly 3 percent. The probabilty of this happens another time (5 heads in a row) is gonna b e 0.09% which is very unlikely. 
