@@ -1,0 +1,6 @@
+The probability of a fair coin landing on heads 10 times in a row is 
+0.5^(10), which is around 0.00098. While this is very unlikely, it is
+still possible. The more trials I conduct, the more I can be sure about
+the fairness of the coin. However, I will never be able to say with
+absolute certainty if the coin is truly fair :(. Personally after 20 
+flips in a row landing all heads, I'd swap out the coins.
