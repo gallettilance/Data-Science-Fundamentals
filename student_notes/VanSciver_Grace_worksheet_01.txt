@@ -1,0 +1,1 @@
+It would have to happen 5 or 6 times for me to start doubting the fairness. A fair coin would land on heads 50% of the time so getting heads 5 times in a row is (0.5^5). This number seems very unlikely to me and would make me very suspicious of the fairness of the coin. 
