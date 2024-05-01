@@ -1,0 +1,1 @@
+In the case of a coin flipped 10 times and always heads, the probability of this happening to an even coin is (0.5)^10, which is about 0.0977%. While such an outcome is unlikely, it is not impossible, with an even coin it could happen by chance.
