@@ -1,0 +1,12 @@
+
+The probability of flipping heads 10 times in a row with a fair coin is 
+0.5^10(0.0997%) which indicates that it is very low(although, not impossible). 
+Such a low probability may lead to suspicions about the coin's fairness. 
+Considering the chances for the above to happen is about 1 in 1024, if we 
+were to flip the coin 5 more times and we still get heads in all those instances
+then the probability of that happening is about 0.0030% which is 1 in 33,333. 
+Meaning that event is next to impossible. However, it isn't necessary to flip it
+5 more times to come to such a conclusion of the coin being biased as according
+to the statistical concept of p-value, the probability of 0.0997% is well below 5%,
+we can remove the hypothesis that the event occured "by-chance". Even if we flip it once 
+more and get the same result, we can be certain that the coin is biased.
