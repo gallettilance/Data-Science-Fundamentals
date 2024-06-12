@@ -1,0 +1,1 @@
+The chances of the coin landing on heads ten times is (0.5)^10 which is 0.0009765625. And with those chances, while not impossibile, I find it highly unlikely to get with a truly fair coin where the chances are fifty-fifty on getting heads or tails. Therefore I have reason to doubt that this coin is not fair.
